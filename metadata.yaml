@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '34400'
     url: http://www.gutenberg.org/2009/agents/34400
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30144#Discours-par-Maximilien-Robespierre---21-octobre-1789-1er-juillet-1794
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2009-10-01'
 gutenberg_type: Text
